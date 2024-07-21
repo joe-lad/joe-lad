@@ -2,16 +2,11 @@
 - 👀 I’m interested in ....
   - Python
   - Web dev
-  - Learning new coding langs
+  - Learning new coding languages
+  - Building cool things
 
 - 🌱 I’m currently learning ...
-  - Web dev (goto: oncrip.punked.us)
-
-- 💞️ I’m looking to collaborate on ...
-  - If you need me for anything im willing to learn and or help
-
-- 📫 How to reach me ...
-  - DM me or find me at JoeLad#5270 on Discord
+  - Web dev (goto: joelad.com)
 
 <!---
 joe-lad/joe-lad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
