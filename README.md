@@ -6,7 +6,7 @@
   - Building cool things
 
 - 🌱 I’m currently learning ...
-  - Web dev (goto: joelad.com)
+  - Web dev
 
 <!---
 joe-lad/joe-lad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
